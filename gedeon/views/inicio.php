@@ -39,10 +39,6 @@
         		font-size: 15px;
       			}
         </style>
-        <link rel="preload" as="style" href="assets/social/social.css">
-        <link rel="stylesheet" href="assets/social/social.css" type="text/css">
-        <link rel="preload" as="style" href="assets/icomoon/fuente_iconos.css">
-        <link rel="stylesheet" href="assets/icomoon/fuente_iconos.css">
 
 
     </head>
@@ -55,11 +51,6 @@
         <!---<div>
             <script async type="text/javascript" src="//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/fa20b7c306dca01c626801a568168a5985a5cec5751719642a14afb162352593.js"></script>
         </div>--->
-
-        <?php
-        require_once './views/social.php';
-        ?>
-
         <section class="menu cid-rC9z5kiS8T" once="menu" id="menu2-0" style="height: 9rem; background-color: #000000;" >		
             <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top" style="background-color: #000000; height: 4rem; opacity: 0.8">
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

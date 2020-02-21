@@ -1,3 +1,4 @@
+
 section {
   background-color: #eeeeee;
 }
@@ -5,7 +6,7 @@ section {
 section,
 .container,
 .container-fluid {
-  position: fixed;
+  position: relative;
   word-wrap: break-word;
 }
 
@@ -558,18 +559,12 @@ nav .mbr-section-btn {
   -webkit-flex-wrap: wrap;
   -webkit-align-items: center;
   -webkit-justify-content: space-between;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
 }
 
 .navbar-collapse {
   -webkit-flex-basis: 100%;
   -webkit-flex-grow: 1;
   -webkit-align-items: center;
-  align-items: center;
-  flex-grow: 1;
-  flex-basis: 100%;
 }
 
 .nav-dropdown .link {
@@ -580,29 +575,24 @@ nav .mbr-section-btn {
 .nav {
   display: -webkit-flex;
   -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
 }
 
 .row {
   display: -webkit-flex;
   -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
 }
 
 .justify-content-center {
   -webkit-justify-content: center;
-  justify-content: center;
 }
 
 .form-inline {
   display: -webkit-flex;
   -webkit-align-items: center;
-  align-items: center;
 }
 
 .card-wrapper {
   -webkit-flex: 1;
-  flex: 1;
 }
 
 .carousel-control {
@@ -610,8 +600,6 @@ nav .mbr-section-btn {
   display: -webkit-flex;
   -webkit-align-items: center;
   -webkit-justify-content: center;
-  align-items: center;
-  justify-content: center;
 }
 
 .carousel-controls {
