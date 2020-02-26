@@ -29,29 +29,30 @@
                                 <p class="mbr-text mbr-fonts-style display-7">
                                     © Copyright 2019 Gedeón C.L.  Todos los derechos reservados<br> Desarrollado por <?php require'./assets/web/copyrigth.php';?></p>
                             </div>
+                            <!--
                             <div class="col-md-6">
                                 <div class="social-list align-right">
                                     <div class="soc-item">
                                         <a href="https://twitter.com/GedeonCia" target="_blank">
-                                            <!--<span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon" style="color: rgb(20, 157, 204); fill: rgb(20, 157, 204);"></span>-->
+                                            <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon" style="color: rgb(20, 157, 204); fill: rgb(20, 157, 204);"></span>
                                             <img src="assets/images/iconos/twitter.png">
                                         </a>
                                     </div>
                                     <div class="soc-item">
                                         <a href="https://www.facebook.com/InvestigadoresPrivadosQuito/" target="_blank">
-                                            <!---<span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153);"></span>-->
+                                            <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153);"></span>
                                             <img src="assets/images/iconos/facebook.png">
                                         </a>
                                     </div>
                                     <div class="soc-item">
                                         <a href="https://api.whatsapp.com/send?phone=593982467444&text=Hola,%20he%20visitado%20su%20sitio%20web,%20deseo%20mayor%20informaci%C3%B3n,%20%20mi%20consulta%20es:" target="_blank">
-                                            <!---<span class="mbr-iconfont mbr-iconfont-social socicon-whatsapp socicon" style="color: rgb(93, 206, 63); fill: rgb(93, 206, 63);"></span>--->
+                                            <span class="mbr-iconfont mbr-iconfont-social socicon-whatsapp socicon" style="color: rgb(93, 206, 63); fill: rgb(93, 206, 63);"></span>
                                             <img src="assets/images/iconos/whatsapp.png">
                                         </a>
                                     </div>
                                     <div class="soc-item">
                                         <a href="https://www.instagram.com/investigadores.ecuador/" target="_blank">
-                                            <!--<span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon" style="color: rgb(204, 41, 82); fill: rgb(204, 41, 82);"></span>-->
+                                            <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon" style="color: rgb(204, 41, 82); fill: rgb(204, 41, 82);"></span>
                                             <img src="assets/images/iconos/instagram.png">
                                         </a>
                                     </div>
@@ -59,6 +60,7 @@
 
                                 </div>
                             </div>
+                            --->
                         </div>
                     </div>
                 </div>
