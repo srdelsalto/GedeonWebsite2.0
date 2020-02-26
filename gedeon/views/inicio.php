@@ -57,14 +57,7 @@
         </div>--->
         <section class="menu cid-rC9z5kiS8T" once="menu" id="menu2-0" style="height: 9rem; background-color: #000000;" >		
             <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top" style="background-color: #000000; height: 4rem; opacity: 0.8">
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <div class="hamburger">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                </button>
+                
                 <div class="menu-logo">
                     <div class="navbar-brand">
                         <span class="navbar-logo">
