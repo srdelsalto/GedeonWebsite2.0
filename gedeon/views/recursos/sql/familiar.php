@@ -24,22 +24,35 @@
     <link rel="stylesheet" href="../assets/theme/css/style.css">
     <link rel="preload" as="style" href="../assets/gedeon/css/gdn-additional.css">
     <link rel="stylesheet" href="../assets/gedeon/css/gdn-additional.css" type="text/css">
+    <link rel="stylesheet" href="../assets/social/social.css" type="text/css">
+    <link rel="stylesheet" href="../assets/icomoon/fuente_iconos.css">
 
 
 
 </head>
 
 <body>
+    <section id="social">
+        <div class="social">
+            <ul>
+                <li><a href="https://www.facebook.com/InvestigadoresPrivadosQuito/" target="_blank" class="icon-facebook"></a></li>
+                <li><a href="https://twitter.com/GedeonCia" target="_blank" class="icon-twitter"></a></li>
+                <li><a href="https://api.whatsapp.com/send?phone=593982467444&text=Hola,%20he%20visitado%20su%20sitio%20web,%20deseo%20mayor%20informaci%C3%B3n,%20%20mi%20consulta%20es:" target="_blank" class="icon-whatsapp"></a></li>
+                <li><a href="https://www.instagram.com/investigadores.ecuador/" target="_blank" class="icon-instagram"></a></li>
+                <li><a href="mailto:investigaciones.gedeonec@gmail.com" class="icon-mail2"></a></li>
+            </ul>
+        </div>
+    </section>
+
     <section class="menu cid-rC9z5kiS8T" once="menu" id="menu2-d">
-        <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top collapsed bg-color transparent" style="background-color: black">
+        <nav class="navbar" style="background-color: black">
             <div class="menu-logo">
                 <div class="navbar-brand">
                     <span class="navbar-logo">
                         <a href="../index.php">
-                            <img src="../assets/images/logo-797x284.png" alt="Familiar" title="" style="height: 6.1rem;">
+                            <img src="../assets/images/logo-797x284.png" alt="Familiar" title="" style="height: 7.2rem;">
                         </a>
                     </span>
-
                 </div>
             </div>
         </nav>
