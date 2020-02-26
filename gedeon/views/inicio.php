@@ -42,8 +42,8 @@
 
 	<link rel="stylesheet" href="assets/social/social.css">
 	<link rel="preload" as="style" href="assets/social/social.css">
-	<link rel="stylesheet" href="assets/icomoon/fuentes_iconos.css">
-        <link rel="preload" as="style" href="assets/icomoon/fuentes_iconos.css">
+	<link rel="stylesheet" href="assets/icomoon/fuente_iconos.css">
+        <link rel="preload" as="style" href="assets/icomoon/fuente_iconos.css">
 
     </head>
 	
