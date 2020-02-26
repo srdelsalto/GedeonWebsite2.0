@@ -44,43 +44,32 @@
         </div>
     </section>
 
-    <section class="menu cid-rC9z5kiS8T" once="menu" id="menu2-v">
+    <section class="menu cid-rC9z5kiS8T" once="menu" id="menu2-v" >
 
-        <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top collapsed bg-color transparent">
+        <nav class="navbar" style="background-color: black">
 
             <div class="menu-logo">
                 <div class="navbar-brand">
                     <span class="navbar-logo">
                         <a href="../index.php">
-                            <img src="../assets/images/logo-408x157.png" alt="Corporativo" title="" style="height: 6.1rem;">
+                            <img src="../assets/images/logo-797x284.png" alt="Corporativo" title="" style="height: 7.2rem;">
                         </a>
                     </span>
 
                 </div>
             </div>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
-                    <li class="nav-item"><a class="nav-link link text-black display-4" href="../index.php">
-                            Inicio
-                        </a>
-                    </li>
-                </ul>
-
-            </div>
         </nav>
     </section>
 
     <section class="engine"><a href="../index.php">Programado por Fernando Chicaiza</a></section>
-    <section class="mbr-section content4 cid-rCD8lAq1Ey" id="content4-w">
 
-
-
+    <section class="mbr-section content4 cid-rCD8lAq1Ey" id="content4-w" style="background-color: black">
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-center pb-3 mbr-fonts-style display-6"><strong>&#191No te cuadran las cuentas, y tu empresa est&#225 en problemas?</strong></h2>
-
-
+                    <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: white">
+                        <strong>&#191No te cuadran las cuentas, y tu empresa est&#225 en problemas?</strong>
+                    </h2>
                 </div>
             </div>
         </div>

@@ -47,48 +47,30 @@
 
 
 
-    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top collapsed bg-color transparent">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <div class="hamburger">
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-      </button>
+    <nav class="navbar" style="background-color: black">
       <div class="menu-logo">
         <div class="navbar-brand">
           <span class="navbar-logo">
             <a href="../index.php">
-              <img src="../assets/images/logo-408x157.png" alt="Desapariciones" title="" style="height: 6.1rem;">
+              <img src="../assets/images/logo-797x284.png" alt="Desapariciones" title="" style="height: 7.2rem;">
             </a>
           </span>
 
         </div>
-      </div>
-
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
-          <li class="nav-item"><a class="nav-link link text-black display-4" href="../index.php">
-              Inicio
-            </a>
-          </li>
-        </ul>
-
       </div>
     </nav>
   </section>
 
   <section class="engine"><a href="../index.php">Programado por Fernando Chicaiza</a>
   </section>
-  <section class="mbr-section content4 cid-rCDigq3bJu" id="content4-13">
+  <section class="mbr-section content4 cid-rCDigq3bJu" id="content4-13" style="background-color: black">
 
 
 
     <div class="container">
       <div class="media-container-row">
         <div class="title col-12 col-md-8">
-          <h2 class="align-center pb-3 mbr-fonts-style display-6">
+          <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: white">
             <strong>Perm&#237tenos ayudarte&nbsp;</strong></h2>
 
 
