@@ -6,4 +6,5 @@ $datos=$rec->get_recurso();
  
 //Llamada a la vista
 require_once("./views/inicio.php");
+require_once("./views/social.php");
 ?>
