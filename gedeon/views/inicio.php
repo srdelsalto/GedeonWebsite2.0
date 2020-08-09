@@ -32,14 +32,14 @@
     <link rel="stylesheet" href="assets/gedeon/css/gdn-additional.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <style>
-        html {
-            scroll-behavior: auto;
-        }
+    html {
+        scroll-behavior: auto;
+    }
 
-        body {
-            font-family: 'Roboto', sans-serif;
-            font-size: 15px;
-        }
+    body {
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+    }
     </style>
 
     <link rel="stylesheet" href="assets/social/social.css">
@@ -52,15 +52,19 @@
 <body>
 
     <section id="top 1" class="engine">
-        Social icons font: <a href="https://www.socicon.com" target="_blank" alt="Free social icons font" title="the social icons font">socicon</a>
+        Social icons font: <a href="https://www.socicon.com" target="_blank" alt="Free social icons font"
+            title="the social icons font">socicon</a>
     </section>
     <!---COPYRIGHT TO SOCICON ICONS--->
     <!---<div>
             <script async type="text/javascript" src="//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/fa20b7c306dca01c626801a568168a5985a5cec5751719642a14afb162352593.js"></script>
         </div>--->
     <section class="menu cid-rC9z5kiS8T" once="menu" id="menu2-0" style="height: 9rem; background-color: #000000;">
-        <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top" style="background-color: #000000; height: 4rem; opacity: 0.8">
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top"
+            style="background-color: #000000; height: 4rem; opacity: 0.8">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
                 <div class="hamburger">
                     <span></span>
                     <span></span>
@@ -127,7 +131,8 @@
 
     <section class="counters1 counters cid-rCacsyYUzo" id="recursos">
         <div class="container">
-            <h2 class="mbr-section-title pb-3 mbr-bold align-center mbr-fonts-style display-2">El Mejor Servicio Investigativo</h2>
+            <h2 class="mbr-section-title pb-3 mbr-bold align-center mbr-fonts-style display-2">El Mejor Servicio
+                Investigativo</h2>
             <h3 class="mbr-section-subtitle mbr-fonts-style display-5"></h3>
 
             <div class="container pt-4 mt-2">
@@ -135,7 +140,8 @@
                     <div class="card p-3 align-center col-12 col-md-6 col-lg-4">
                         <div class="panel-item p-3">
                             <div class="card-img pb-3">
-                                <span class="mbr-iconfont mbri-user" style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
+                                <span class="mbr-iconfont mbri-user"
+                                    style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
                             </div>
                             <div class="card-text">
                                 <h3 class=" ">Personal Operativo
@@ -143,8 +149,10 @@
                                 <br>
                                 <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">
                                 </h4>
-                                <p class="mbr-content-text mbr-fonts-style display-7" style="text-align: justify; -moz-text-align-last: center;">
-                                    Contamos con el mejor equipo de investigadores privados capacitados y profesionales, que garantizan eficiencia en nuestro servicio.
+                                <p class="mbr-content-text mbr-fonts-style display-7"
+                                    style="text-align: justify; -moz-text-align-last: center;">
+                                    Contamos con el mejor equipo de investigadores privados capacitados y profesionales,
+                                    que garantizan eficiencia en nuestro servicio.
                                 </p>
                             </div>
                         </div>
@@ -152,13 +160,16 @@
                     <div class="card p-3 align-center col-12 col-md-6 col-lg-4">
                         <div class="panel-item p-3">
                             <div class="card-img pb-3">
-                                <span class="mbr-iconfont mbri-touch" style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
+                                <span class="mbr-iconfont mbri-touch"
+                                    style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
                             </div>
                             <div class="card-text">
                                 <h3 class="">Apoyo Tecnológico</h3><br>
                                 <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7"></h4>
-                                <p class="mbr-content-text mbr-fonts-style display-7" style="text-align: justify; -moz-text-align-last: center;">
-                                    Equipos de última generación como rastreadores GPS, equipos ocultos de filmación y fotografía con activación remota, softwares específicos para nuestra actividad.
+                                <p class="mbr-content-text mbr-fonts-style display-7"
+                                    style="text-align: justify; -moz-text-align-last: center;">
+                                    Equipos de última generación como rastreadores GPS, equipos ocultos de filmación y
+                                    fotografía con activación remota, softwares específicos para nuestra actividad.
                                 </p>
                             </div>
                         </div>
@@ -166,12 +177,17 @@
                     <div class="card p-3 align-center col-12 col-md-6 col-lg-4">
                         <div class="panel-item p-3">
                             <div class="card-img pb-3">
-                                <span class="mbr-iconfont mbri-cash" style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
+                                <span class="mbr-iconfont mbri-cash"
+                                    style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
                             </div>
                             <div class="card-text">
                                 <h3 class=" ">Servicio Accesible</h3><br>
                                 <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7"></h4>
-                                <p class="mbr-content-text mbr-fonts-style display-7" style="text-align: justify; -moz-text-align-last: center;">En GEDEÓN creemos que todas las personas deben tener la oportunidad de despejar sus dudas y nosotros deseamos ayudar, por tal motivo, nuestros precios son los mas accesibles del mercado.</p>
+                                <p class="mbr-content-text mbr-fonts-style display-7"
+                                    style="text-align: justify; -moz-text-align-last: center;">En GEDEÓN creemos que
+                                    todas las personas deben tener la oportunidad de despejar sus dudas y nosotros
+                                    deseamos ayudar, por tal motivo, nuestros precios son los mas accesibles del
+                                    mercado.</p>
                             </div>
                         </div>
                     </div>
@@ -201,17 +217,25 @@
                             <div class="card p-3 pr-3">
                                 <div class="media">
                                     <div class=" align-self-center card-img pb-3">
-                                        <span class="mbr-iconfont mbri-extension" style="color: rgb(250, 242, 242); fill: rgb(250, 242, 242); font-size: 50px;"></span>
+                                        <span class="mbr-iconfont mbri-extension"
+                                            style="color: rgb(250, 242, 242); fill: rgb(250, 242, 242); font-size: 50px;"></span>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="card-title mbr-fonts-style display-5"><strong>¿Quiénes Somos?</strong></h4>
+                                        <h4 class="card-title mbr-fonts-style display-5"><strong>¿Quiénes
+                                                Somos?</strong></h4>
                                     </div>
                                 </div>
                                 <div class="card-box">
-                                    <p class="block-text mbr-fonts-style display-7" style="text-align: justify; -moz-text-align-last: center;">Somos una compañía de seguridad y vigilancia modalidad, investigación privada, autorizada para realizar investigaciones sobre el estado y situación de personas naturales o jurídicas y/o sus bienes.
+                                    <p class="block-text mbr-fonts-style display-7"
+                                        style="text-align: justify; -moz-text-align-last: center;">Somos una compañía de
+                                        seguridad y vigilancia modalidad, investigación privada, autorizada para
+                                        realizar investigaciones sobre el estado y situación de personas naturales o
+                                        jurídicas y/o sus bienes.
                                         <br>
                                         <br>
-                                        Nos encontramos bajo el control de la Superintedencia de Compañias, Ministerio De Defensa, Ministerio Del Interior, Comandancia De Policía y al Control de Organizaciones de Seguridad Privada (COSP) .</p>
+                                        Nos encontramos bajo el control de la Superintedencia de Compañias, Ministerio
+                                        De Defensa, Ministerio Del Interior, Comandancia De Policía y al Control de
+                                        Organizaciones de Seguridad Privada (COSP) .</p>
                                 </div>
                             </div>
                         </div>
@@ -228,14 +252,16 @@
             <div class="container">
                 <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
                     <strong>Áreas de Acción</strong></h2>
-                <h3 class="mbr-section-subtitle display-5 align-center mbr-fonts-style mbr-light">Atención en varios ámbitos investigativos con los mejores resultados que usted puede esperar</h3>
+                <h3 class="mbr-section-subtitle display-5 align-center mbr-fonts-style mbr-light">Atención en varios
+                    ámbitos investigativos con los mejores resultados que usted puede esperar</h3>
                 <div class="media-container-row pt-5 ">
                     <div class="card p-3 col-12 col-md-6 col-lg-3">
                         <div class="card-wrapper ">
                             <div class="card-img">
                                 <div class="mbr-overlay"></div>
                                 <div class="mbr-section-btn text-center">
-                                    <a href="./controller/servicios.php?nombre=familiar" class="btn btn-success display-4">Saber más</a>
+                                    <a href="./controller/servicios.php?nombre=familiar"
+                                        class="btn btn-success display-4">Saber más</a>
                                 </div>
                                 <img src="assets/images/familiar-700x438.jpg" alt="" title="">
                             </div>
@@ -250,7 +276,8 @@
                             <div class="card-img">
                                 <div class="mbr-overlay"></div>
                                 <div class="mbr-section-btn text-center">
-                                    <a href="./controller/servicios.php?nombre=corporativo" class="btn btn-success display-4">Saber más</a>
+                                    <a href="./controller/servicios.php?nombre=corporativo"
+                                        class="btn btn-success display-4">Saber más</a>
                                 </div>
                                 <img src="assets/images/corporate-700x438.jpg" alt="">
                             </div>
@@ -265,7 +292,8 @@
                             <div class="card-img">
                                 <div class="mbr-overlay"></div>
                                 <div class="mbr-section-btn text-center">
-                                    <a href="./controller/servicios.php?nombre=seguros" class="btn btn-success display-4">Saber más</a>
+                                    <a href="./controller/servicios.php?nombre=seguros"
+                                        class="btn btn-success display-4">Saber más</a>
                                 </div>
                                 <img src="assets/images/siniestros-700x438.jpg" alt="" title="">
                             </div>
@@ -280,7 +308,8 @@
                             <div class="card-img">
                                 <div class="mbr-overlay"></div>
                                 <div class="mbr-section-btn text-center">
-                                    <a href="./controller/servicios.php?nombre=desapariciones" class="btn btn-success display-4">Saber más</a>
+                                    <a href="./controller/servicios.php?nombre=desapariciones"
+                                        class="btn btn-success display-4">Saber más</a>
                                 </div>
                                 <img src="assets/images/desaparecida-700x438.jpg" alt="" title="">
                             </div>
@@ -301,9 +330,9 @@
         <div class="cognito">
             <script src="https://services.cognitoforms.com/s/MS4hxgLrdEmV3MdUADMDBw"></script>
             <script>
-                Cognito.load("forms", {
-                    id: "1"
-                });
+            Cognito.load("forms", {
+                id: "1"
+            });
             </script>
         </div>
     </section>
@@ -322,19 +351,22 @@
                         <div class="col-12 col-md-6">
                             <div class="wrapper">
                                 <span class="iconfont-wrapper">
-                                    <span class="amp-iconfont icon fa-thumbs-o-up fa mbri-mobile" style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
+                                    <span class="amp-iconfont icon fa-thumbs-o-up fa mbri-mobile"
+                                        style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
                                 </span>
                                 <div class="b-info b-adress">
                                     <h5 class="align-left mbr-fonts-style display-5">
                                         Teléfono Celular:</h5>
-                                    <p class="mbr-text align-left mbr-fonts-style display-7">&nbsp;0998842522&nbsp;<br>&nbsp;0985785236&nbsp;<br></p>
+                                    <p class="mbr-text align-left mbr-fonts-style display-7">
+                                        &nbsp;0998842522&nbsp;<br>&nbsp;0985785236&nbsp;<br></p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 col-md-6">
                             <div class="wrapper">
                                 <span class="iconfont-wrapper">
-                                    <span class="amp-iconfont icon fa-phone fa mobi-mbri-phone mobi-mbri" style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
+                                    <span class="amp-iconfont icon fa-phone fa mobi-mbri-phone mobi-mbri"
+                                        style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
                                 </span>
                                 <div class="b-info b-phone">
                                     <h5 class="align-left mbr-fonts-style display-5">Teléfono Convencional:
@@ -346,7 +378,8 @@
                         <div class="col-12 col-md-6">
                             <div class="wrapper">
                                 <span class="iconfont-wrapper">
-                                    <span class="amp-iconfont icon fa-comment-o fa socicon-mail socicon" style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
+                                    <span class="amp-iconfont icon fa-comment-o fa socicon-mail socicon"
+                                        style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
                                 </span>
                                 <div class="b-info b-mail">
                                     <h5 class="align-left mbr-fonts-style display-5">
@@ -361,13 +394,14 @@
                         <div class="col-12 col-md-6">
                             <div class="wrapper">
                                 <span class="iconfont-wrapper">
-                                    <span class="amp-iconfont icon fa-th-large fa mobi-mbri-calendar mobi-mbri" style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
+                                    <span class="amp-iconfont icon fa-th-large fa mobi-mbri-calendar mobi-mbri"
+                                        style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
                                 </span>
                                 <div class="b-info b-schedule">
                                     <h5 class="align-left mbr-fonts-style display-5">
                                         Horarios de Atención</h5>
                                     <p class="mbr-text align-left mbr-fonts-style display-7">Lunes a Viernes:
-                                        <br>09:00 17:00</p>
+                                        <br>09:00 - 17:00</p>
                                 </div>
                             </div>
                         </div>
@@ -375,14 +409,15 @@
                         <div class="col-12 col-md-6">
                             <div class="wrapper">
                                 <span class="iconfont-wrapper">
-                                    <span class="amp-iconfont icon fa-th-large fa mobi-mbri-pin mobi-mbri" style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
+                                    <span class="amp-iconfont icon fa-th-large fa mobi-mbri-pin mobi-mbri"
+                                        style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
                                 </span>
                                 <div class="b-info b-location">
                                     <h5 class="align-left mbr-fonts-style display-5">
                                         Ubicación</h5>
-                                    <p class="mbr-text align-left mbr-fonts-style display-7">Av. Patria y 10 de Agosto
-                                        <br>Edificio Banco de Préstamos
-                                        <br>Piso 17, Oficina No. 1704</p>
+                                    <p class="mbr-text align-left mbr-fonts-style display-7">Av Amazonas y Gral.
+                                        Francisco Robles.
+                                        <br>Piso 6to, oficina No. 608</p>
                                 </div>
                             </div>
                         </div>
@@ -390,12 +425,17 @@
                         <div class="col-12 col-md-6">
                             <div class="wrapper">
                                 <span class="iconfont-wrapper">
-                                    <span class="amp-iconfont icon fa-th-large fa mobi-mbri-map-pin mobi-mbri" style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
+                                    <span class="amp-iconfont icon fa-th-large fa mobi-mbri-map-pin mobi-mbri"
+                                        style="color: rgb(209, 154, 55); fill: rgb(209, 154, 55);"></span>
                                 </span>
                                 <div class="b-info b-maps">
                                     <h5 class="align-left mbr-fonts-style display-5">
                                         Ubicación en Mapa</h5>
-                                    <br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d668.2853277817243!2d-78.49893104689214!3d-0.206324136916944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a3de691f48f%3A0x9dd150b8162676eb!2sEDIFICIO%20BANCO%20DE%20PRESTAMO!5e0!3m2!1ses!2sec!4v1574018797278!5m2!1ses!2sec" width="400" height="450" frameborder="0" style="border:0;">&nbsp; </iframe>
+                                    <br>
+                                    <iframe
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.792635961533!2d-78.49777418524673!3d-0.20558709984999857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMMKwMTInMjAuMSJTIDc4wrAyOSc0NC4xIlc!5e0!3m2!1ses!2sec!4v1596999635908!5m2!1ses!2sec"
+                                        width="400" height="450" frameborder="0" style="border:0;" allowfullscreen=""
+                                        aria-hidden="false" tabindex="0"> &nbsp;</iframe>
                                 </div>
                             </div>
                         </div>
